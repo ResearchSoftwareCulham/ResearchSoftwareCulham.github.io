@@ -1,4 +1,6 @@
 # Contributing
+We welcome contributions from people working on research software around Culham.
+
 This guide summarises the [Github guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll) for adding new content to a Jekyll site. The "publishing source" is the `master` branch; anything added to `master` will be published automatically. Firstly, please create an issue and branch for the content you wish to add.
 
 There are two main types of content, pages and posts, both written in Markdown. A page is permanent, without an associated date, whereas a post has a date associated with it.
