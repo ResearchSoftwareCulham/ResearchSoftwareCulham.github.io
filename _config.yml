@@ -41,7 +41,7 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - _posts/2021-03-15-welcome-to-jekyll.markdown
+  - _posts/2021-03-15-welcome-to-jekyll.md
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

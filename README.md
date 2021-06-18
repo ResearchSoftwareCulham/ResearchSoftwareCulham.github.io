@@ -1,4 +1,7 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 # ResearchSoftwareCulham.github.io
+
 A blog for Research Software at Culham.
 
 This site is hosted using [Github Pages](https://pages.github.com/) and is generated using the [Jekyll](https://jekyllrb.com/) static site generator. This means that a Markdown file (with some YAML front matter) on the `master` branch will be automatically published to [researchsoftwareculham.github.io](https://researchsoftwareculham.github.io/) as a blog post or page.
@@ -27,3 +30,5 @@ bundle exec jekyll serve
 ```
 
 To preview the site in your web browser, navigate to `http://localhost:4000`.
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
