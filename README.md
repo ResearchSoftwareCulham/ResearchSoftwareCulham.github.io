@@ -1,7 +1,7 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 # ResearchSoftwareCulham.github.io
-A blog for Research Software at Culham.
+A blog for Research Software at Culham. To become a member of the ResearchSoftwareCulham organisation on Github, please email jonathan.maddock@ukaea.uk.
 
 ## Contributing a blog post or page
 This site is hosted using [Github Pages](https://pages.github.com/) and is generated using the [Jekyll](https://jekyllrb.com/) static site generator. This means that a Markdown file (with some YAML front matter) on the `master` branch will be automatically published to [researchsoftwareculham.github.io](https://researchsoftwareculham.github.io/) as a blog post or page.
