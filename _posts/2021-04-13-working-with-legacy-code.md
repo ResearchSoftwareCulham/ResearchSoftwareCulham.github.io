@@ -8,7 +8,7 @@ categories: legacy
 There is some debate about what exactly constitutes “legacy code”, but it is generally older code which is difficult to maintain. We expand below on what makes code difficult to maintain and suggest a general approach to improving it.
 
 ## What makes code difficult to maintain? 
-There are many articles written about software best practices and how to make code easier to maintain.  Example features of legacy code include:
+Example features of legacy code include:
 - “Brittleness” - tiny modifications can have a disastrous impact in totally unexpected places. 
 - A history of taking shortcuts and quick fixes 
 - A lack of modern tools (e.g. testing frameworks, containerisation, CI) 
@@ -54,3 +54,7 @@ This is a roughly ordered list of things you might do:
 8. (and then eventually) Make the required change (following good software engineering practices) 
    
 As part of using modern good software engineering practices, if you are not going to be the only person ever modifying this codebase, then you should consider adopting shared practices, such as enforcing a review of every merge request, and working to an agreed coding standard.
+
+## Case study
+
+Jonathan Hollocombe has written a legacy code case study about the UDA code [here]({% post_url 2021-04-13-uda-case-study %}).
