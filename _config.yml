@@ -42,6 +42,7 @@ plugins:
 #
 exclude:
   - _posts/2021-03-15-welcome-to-jekyll.md
+  - _posts/2021-03-16-first-post.md
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
